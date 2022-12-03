@@ -3,5 +3,5 @@
 ### Screenshot
 
 
-![](./images/Screen Shot.png)
+![](images/Screen Shot.png)
 
